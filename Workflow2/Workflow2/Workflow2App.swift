@@ -4,6 +4,10 @@
 //
 //  Created by Tomisin Salu on 9/2/24.
 //
+<<<<<<< HEAD
+=======
+//Branch comment modification
+>>>>>>> Workflow
 
 import SwiftUI
 
